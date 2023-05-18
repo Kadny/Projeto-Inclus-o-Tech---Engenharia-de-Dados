@@ -34,7 +34,7 @@ Descrever as atividades
 
 -Marize: Criou o grupo de whatsapp para a comunicação entre os membros do projeto. Produziu o Formulário Forms para a Pequisa de Satisfação dos clientes externos. Colocou o link da pesquisa de satisfação dos clientes no whatsapp e no Trello (Kanban) para ajustes realizados por Jorge e consequentemente para avaliação de todo o grupo, onde houve contrubuíção de todos os integrantes de maneira exemplar, trazendo o resultado final de excelência no Projeto desenvolvido. 
 
--Paulo: 
+-Paulo: Montagem das questões e introdução do formulário, apoiou nas revisões pertinentes.
 
 c) Base de Dados (Excel):
 
@@ -44,7 +44,7 @@ Mário:
 
 Matheus:
 
-Paulo:
+Paulo: Trativa dos dados, tabulação e criação das tabelas dinâmicas para criação de gráficos dinâmicos do dash do Excel.
 
 d) Dashboard (Excel e Power BI):
 
@@ -52,7 +52,7 @@ Descrever as atividades:
 
 Mario:
 
-Paulo:
+Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvimento do painel de BI feito no Power BI, todos a parte gráfica foi realizada utilizando como base as cores predominantes da Ipiranga.
 
 e) Github: 
 
@@ -60,22 +60,22 @@ Descrever as atividades
 
 -Kadny: desenvolvimeno do README.md e estruturação do projeto.
 
--Paulo:
+-Paulo: Criação e configuração do repositório.
 
 
 f) Apresentação (Power Point):
 
 -Kadny: desenvolvimento do Power Point.
 
--Paulo:
+-Paulo: Apoio na apresentação da parte de BI.
 
 7- Links 
 
 -Link da abertura do grupo whatsaap (canal de comunicação com rapidez)
 
--Link do Trello (Kanban e Scrum):
+-Link do Trello (Kanban e Scrum): https://trello.com/b/BA36pW74/atividades
 
--Link do Google Forms(Questionário):
+-Link do Google Forms(Questionário): https://docs.google.com/forms/d/e/1FAIpQLSf9AjMi1d7I6AXeaun9hT7agzwUrtF9lNinScv_ps2AzjeTmQ/viewform
 
 -Link Power BI (Dasboard):
 
