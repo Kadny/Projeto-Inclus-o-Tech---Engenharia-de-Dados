@@ -32,7 +32,7 @@ Descrever as atividades
 
 -Jorge:
 
--Marize:
+-Marize: Criou o grupo de whatsapp para a comunicação entre os membros do projeto. Produziu o Formulário Forms para a Pequisa de Satisfação dos clientes externos. Colocou o link da pesquisa de satisfação dos clientes no whatsapp e no Trello (Kanban) para ajustes realizados por Jorge e consequentemente para avaliação de todo o grupo, onde houve contrubuíção de todos os integrantes de maneira exemplar, trazendo o resultado final de excelência no Projeto desenvolvido. 
 
 -Paulo: 
 
@@ -70,6 +70,8 @@ f) Apresentação (Power Point):
 -Paulo:
 
 7- Links 
+
+-Link da abertura do grupo whatsaap (canal de comunicação com rapidez)
 
 -Link do Trello (Kanban e Scrum):
 
