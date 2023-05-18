@@ -2,11 +2,9 @@
 
 -Objetivo do projeto: analisar o perfil dos consumidores do Grupo Ipiranga e identificar pontos de melhoria.
 
--Grupo: Isaira, Jorge, Kadny, Mario, Marize, Matheus, Paulo. 
+Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pela Gama Academy e pelo Grupo Ipiranga, a fim de incluir pessoas com deficiência em cursos de Inteligência de Dados e BI. Nosso time foi formado pela Isaira, Jorge Luiz, Kadny Macêdo, Mario Lopes, Marize Medeiros, Matheus Rodrigues e Paulo Simão. Para a organização do projeto, escolhemos o Kanban para definir as atividades do projeto, por meio da metodologia Scrum, e o Trello como ferramenta de visualização. Ao realizar o projeto, acabamos definindo os papéis do Scrum de acordo com as afinidades, tanto de softskills quanto de hardskills, de cada membro. Mas, apesar das funções terem sido definidas, todos nós contribuímos muito nas reuniões semanais (Daily Sprint), dando suporte um ao outro em cada atividade,  desde a organização até o momento da apresentação. Nós trabalhamos de forma coesa, colaborativa e apoiadora, como deve ser em um grupo de inclusão, como deve ser, também, no time da Ipiranga. Abaixo estão definidos as divisões dos papéis no Scrum, a metodologia e contribuição de cada um no projeto da Ipiranga Inclusão Tech e, por último, os links de alguns entregáveis. 
 
--Ferramentas de organização do projeto: o Kanban foi utilizado para definir as atividades do projeto, utilizando a ferramenta Trello, e a metodologia aplicada foi o Scrum, no qual o grupo foi designado de acordo com as afinidades (hardskills e softkills) de cada membro.
-
--Divisão de papéis no Scrum:
+1- Divisão de papéis no Scrum:
 
 Project Owner: Kadny Macêdo
 
@@ -14,9 +12,9 @@ Scrum Master: Paulo Simão
 
 Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
 
--Metodologia: 
+2-Metodologia: 
 
-1- Scrum e Kanban: 
+a) Scrum e Kanban: 
 
 Descrever as atividades:
 
@@ -24,7 +22,7 @@ Descrever as atividades:
 
 -Isaira:
 
-2- Questionário:
+b) Questionário:
 
 Descrever as atividades
 
@@ -36,8 +34,7 @@ Descrever as atividades
 
 -Paulo: 
 
-
-3- Base de Dados (Excel):
+c) Base de Dados (Excel):
 
 Descrever as atividades
 
@@ -47,8 +44,7 @@ Matheus:
 
 Paulo:
 
-
-4- Dashboard (Excel e Power BI):
+d) Dashboard (Excel e Power BI):
 
 Descrever as atividades:
 
@@ -56,7 +52,7 @@ Mario:
 
 Paulo:
 
-5- Github: 
+e) Github: 
 
 Descrever as atividades
 
@@ -64,17 +60,18 @@ Descrever as atividades
 
 -Paulo:
 
-6-Apresentação (Power Point):
+
+f) Apresentação (Power Point):
 
 -Kadny:
 
 -Paulo:
 
-Observação: na metodologia, apesar de as funções serem definidas, nas reuniões semanais (Daily Sprint), todos contribuíram na construção do projeto, desde a organização das atividades até o momento da apresentação, nosso grupo trabalhou de forma coesa, colaborativa e apoiadora, como deve ser no time da Ipiranga. 
+7- Links 
 
-Link do Trello:
+-Link do Trello (Kanban e Scrum):
 
-Link do Questionário (Google Forms):
+-Link do Google Forms(Questionário):
 
-Link Power BI:
+-Link Power BI (Dasboard):
 
