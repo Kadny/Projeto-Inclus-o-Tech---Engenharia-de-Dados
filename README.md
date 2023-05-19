@@ -14,7 +14,7 @@ Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
 
 **2-Metodologia:**
 
-a) Scrum e Kanban: 
+**a) Scrum e Kanban:** 
 
 Descrever as atividades:
 
@@ -24,7 +24,7 @@ Descrever as atividades:
 
 -Matheus:
 
-b) Questionário:
+**b) Questionário:**
 
 Descrever as atividades
 
@@ -36,7 +36,7 @@ Descrever as atividades
 
 -Paulo: Montagem das questões e introdução do formulário, apoiou nas revisões pertinentes.
 
-c) Base de Dados (Excel):
+**c) Base de Dados (Excel):**
 
 Descrever as atividades
 
@@ -46,7 +46,7 @@ Matheus:
 
 Paulo: Trativa dos dados, tabulação e criação das tabelas dinâmicas para criação de gráficos dinâmicos do dash do Excel.
 
-d) Dashboard (Excel e Power BI):
+**d) Dashboard (Excel e Power BI):**
 
 Descrever as atividades:
 
@@ -54,7 +54,7 @@ Mario:
 
 Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvimento do painel de BI feito no Power BI, todos a parte gráfica foi realizada utilizando como base as cores predominantes da Ipiranga.
 
-e) Github: 
+**e) Github:** 
 
 Descrever as atividades
 
@@ -63,7 +63,7 @@ Descrever as atividades
 -Paulo: Criação e configuração do repositório.
 
 
-f) Apresentação (Power Point):
+**f) Apresentação (Power Point):**
 
 -Kadny: desenvolvimento do Power Point.
 
