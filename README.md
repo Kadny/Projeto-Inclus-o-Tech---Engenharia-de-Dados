@@ -28,7 +28,7 @@ Descrição das atividades:
 
 Descrever as atividades
 
--Isaira: 
+-Isaira: Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story 
 
 -Jorge:
 
