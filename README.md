@@ -40,7 +40,7 @@ Descrever as atividades
 
 Descrever as atividades
 
-Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos bucar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar na totalidade de informações para compor a pesquisa.
+Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar na totalidade de informações para compor a pesquisa.
 
 Matheus:
 
@@ -50,7 +50,7 @@ Paulo: Trativa dos dados, tabulação e criação das tabelas dinâmicas para cr
 
 Descrever as atividades:
 
-Mario: Tendo a primeira versão do bnco de dados pronta, dei início a elaboração do primeiro Dashboardo do projeto, para à partir deste modelo, gerarmos novas versões até atender a total necessidade do projeto e atendendo a expectativa de todos do grupo. 
+Mario: Tendo a primeira versão do banco de dados pronta, dei início a elaboração do primeiro Dashboard do projeto, para à partir deste modelo, gerarmos novas versões até atender a total necessidade do projeto e a expectativa de todos do grupo. 
 
 Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvimento do painel de BI feito no Power BI, todos a parte gráfica foi realizada utilizando como base as cores predominantes da Ipiranga.
 
