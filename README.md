@@ -16,7 +16,7 @@ Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lo
 
 **a) Scrum e Kanban:** 
 
-Descrever as atividades:
+Descrição das atividades:
 
 -Isaira:
 
