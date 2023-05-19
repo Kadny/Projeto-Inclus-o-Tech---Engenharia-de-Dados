@@ -4,15 +4,15 @@
 
 Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pela Gama Academy e pelo Grupo Ipiranga, a fim de incluir pessoas com deficiência em cursos de Inteligência de Dados e BI. Nosso time foi formado pela Isaira, Jorge Luiz, Kadny Macêdo, Mario Lopes, Marize Medeiros, Matheus Rodrigues e Paulo Simão. Para a organização do projeto, escolhemos o Kanban para definir as atividades do projeto, por meio da metodologia Scrum, e o Trello como ferramenta de visualização. Ao realizar o projeto, acabamos definindo os papéis do Scrum de acordo com as afinidades, tanto de soft quanto de hard skills, de cada membro. Mas, apesar das funções terem sido definidas, todos nós contribuímos muito nas reuniões semanais (Daily Sprint), dando suporte um ao outro em cada atividade,  desde a organização até o momento da apresentação. Nós trabalhamos de forma coesa, colaborativa e apoiadora, como deve ser em um grupo de inclusão, como deve ser, também, no time da Ipiranga. Abaixo estão definidos as divisões dos papéis no Scrum, a metodologia e contribuição de cada um no projeto da Ipiranga Inclusão Tech e, por último, os links de alguns entregáveis. 
 
-1- Divisão de papéis no Scrum:
+**1- Divisão de papéis no Scrum:**
 
 Project Owner: Kadny Macêdo
 
-*Scrum Master: Paulo Simão*
+Scrum Master: Paulo Simão
 
 Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
 
-2-Metodologia: 
+**2-Metodologia: **
 
 a) Scrum e Kanban: 
 
@@ -69,7 +69,7 @@ f) Apresentação (Power Point):
 
 -Paulo: Apoio na apresentação da parte de BI.
 
-7- Links 
+**7- Links **
 
 -Link da abertura do grupo whatsaap (canal de comunicação com rapidez)
 
