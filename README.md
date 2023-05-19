@@ -12,7 +12,7 @@ Scrum Master: Paulo Simão
 
 Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
 
-**2-Metodologia: **
+**2-Metodologia:**
 
 a) Scrum e Kanban: 
 
@@ -69,7 +69,7 @@ f) Apresentação (Power Point):
 
 -Paulo: Apoio na apresentação da parte de BI.
 
-**7- Links **
+**7- Links**
 
 -Link da abertura do grupo whatsaap (canal de comunicação com rapidez)
 
