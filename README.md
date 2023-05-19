@@ -40,7 +40,7 @@ Descrever as atividades
 
 Descrever as atividades
 
-Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet, encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar a gama de informações para compor a pesquisa.
+Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet, encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar a gama de informações da pesquisa.
 
 Matheus:
 
