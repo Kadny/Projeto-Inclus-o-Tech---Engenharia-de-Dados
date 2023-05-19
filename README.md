@@ -11,10 +11,14 @@ Project Owner: Kadny Jordany Villela de Macêdo
 Scrum Master: Paulo de Oliveira Simão Junior
 
 Developers: Isaira Rodrigues Soares
+
             Jorge Luiz Machado Junior
+            
             Mario de Melo Lopes Filho
+            
             Marize da Silva Medeiros
-            Matheus Pena Rodrigues.
+            
+            Matheus Pena Rodrigues
 
 **2-Metodologia:**
 
