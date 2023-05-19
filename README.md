@@ -6,11 +6,15 @@ Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pe
 
 **1- Divisão de papéis no Scrum:**
 
-Project Owner: Kadny Macêdo
+Project Owner: Kadny Jordany Villela de Macêdo
 
-Scrum Master: Paulo Simão
+Scrum Master: Paulo de Oliveira Simão Junior
 
-Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
+Developers: Isaira Rodrigues Soares
+            Jorge Luiz Machado Junior
+            Mario de Melo Lopes Filho
+            Marize da Silva Medeiros
+            Matheus Pena Rodrigues.
 
 **2-Metodologia:**
 
@@ -40,7 +44,7 @@ Descrever as atividades
 
 Descrever as atividades
 
-Mário:
+Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos bucar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar na totalidade de informações para compor a pesquisa.
 
 Matheus:
 
@@ -50,7 +54,7 @@ Paulo: Trativa dos dados, tabulação e criação das tabelas dinâmicas para cr
 
 Descrever as atividades:
 
-Mario:
+Mario: Tendo a primeira versão do bnco de dados pronta, dei início a elaboração do primeiro Dashboardo do projeto, para à partir deste modelo, gerarmos novas versões até atender a total necessidade do projeto e atendendo a expectativa de todos do grupo. 
 
 Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvimento do painel de BI feito no Power BI, todos a parte gráfica foi realizada utilizando como base as cores predominantes da Ipiranga.
 
