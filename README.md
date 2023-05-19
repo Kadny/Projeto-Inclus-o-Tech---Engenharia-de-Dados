@@ -8,7 +8,7 @@ Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pe
 
 Project Owner: Kadny Macêdo
 
-**Scrum Master: Paulo Simão
+*Scrum Master: Paulo Simão
 
 Developers: Isaira, Jorge Luiz, Mario Lopes, Marize Medeiros, Matheus Rodrigues.
 
