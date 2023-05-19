@@ -18,7 +18,7 @@ Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lo
 
 Descrição das atividades:
 
--Isaira: 
+-Isaira:Pesquisa de pontos negativos  e positivos  do app
 
 -Kadny: organizei as atividades do projeto no Trello, conduzi as Daily Sprints, dei suporte à equipe, monitorei as datas de entrega das peças e ajudei no desenvolvimento das etapas, quando tínhamos dificuldade para realizar alguma tarefa. 
 
