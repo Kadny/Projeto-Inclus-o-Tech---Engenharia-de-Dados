@@ -4,7 +4,7 @@ Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e com
 
 Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pela Gama Academy e pelo Grupo Ipiranga, a fim de incluir pessoas com deficiência em cursos de Inteligência de Dados e BI. Nosso time foi formado por Isaira Rodrigues Soares, Jorge Luiz, Kadny Macêdo, Mario Lopes, Marize Medeiros, Matheus Rodrigues e Paulo Simão. Para a organização do projeto, escolhemos o Kanban para definir as atividades, por meio da metodologia Scrum, e o Trello como ferramenta de visualização. Ao realizar o projeto, definimos os papéis do Scrum de acordo com as afinidades, tanto de soft quanto de hard skills, de cada membro. Mas, apesar das funções terem sido definidas, todos nós contribuímos muito nas reuniões semanais (Daily Sprint), dando suporte um ao outro em cada atividade,  desde a organização até o momento da apresentação. Nós trabalhamos de forma coesa, colaborativa e apoiadora, como deve ser em um grupo de inclusão, e, também, no time da Ipiranga. Abaixo estão definidos as divisões dos papéis no Scrum, a metodologia e contribuição de cada um no projeto da Ipiranga Inclusão Tech e, por último, os links de alguns entregáveis. 
 
-**1- Divisão de papéis no Scrum:**
+**1- Divisão de papéis no Scrum:** 
 
 Project Owner: Kadny Jordany Villela de Macêdo
 
@@ -31,6 +31,8 @@ Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lo
 -Marize: Criou o grupo de whatsapp para a comunicação entre os membros do projeto. Produziu o Formulário Forms para a Pequisa de Satisfação dos clientes externos. Colocou o link da pesquisa de satisfação dos clientes no whatsapp e no Trello (Kanban) para ajustes realizados por Jorge e consequentemente para avaliação de todo o grupo, onde houve contrubuíção de todos os integrantes de maneira exemplar, trazendo o resultado final de excelência no Projeto desenvolvido. 
 
 -Paulo: Montagem das questões e introdução do formulário, apoiou nas revisões pertinentes.
+
+Link Canvas: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/editutm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **c) Base de Dados (Excel):**
 
