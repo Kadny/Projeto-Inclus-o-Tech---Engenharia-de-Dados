@@ -64,11 +64,11 @@ Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvime
 
 **7- Links**
 
--Link da abertura do grupo whatsaap (canal de comunicação com rapidez)
+-Link da abertura do grupo whatsapp (canal de comunicação com rapidez)
 
 -Link do Trello (Kanban e Scrum): https://trello.com/b/BA36pW74/atividades
 
--Link do Google Forms(Questionário): https://docs.google.com/forms/d/e/1FAIpQLSf9AjMi1d7I6AXeaun9hT7agzwUrtF9lNinScv_ps2AzjeTmQ/viewform
+-Link do Google Forms (Questionário): https://docs.google.com/forms/d/e/1FAIpQLSf9AjMi1d7I6AXeaun9hT7agzwUrtF9lNinScv_ps2AzjeTmQ/viewform
 
 -Link Power BI (Dasboard):
 
