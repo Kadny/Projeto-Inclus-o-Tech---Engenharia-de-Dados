@@ -72,5 +72,5 @@ Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvime
 
 -Link do Google Forms (Questionário): https://docs.google.com/forms/d/e/1FAIpQLSf9AjMi1d7I6AXeaun9hT7agzwUrtF9lNinScv_ps2AzjeTmQ/viewform
 
--Link Power BI (Dasboard):
+-Link Power BI (Dasboard): https://app.powerbi.com/view?r=eyJrIjoiNjlhNjg3NzItYjgxMy00YTI2LTgyZTYtYjg1MmEzZWZhZGI5IiwidCI6IjgwOWY5NGE2LTA0NzctNDM5MC1iODZlLWVhYjE0YzU0OTNhNyJ9
 
