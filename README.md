@@ -16,21 +16,17 @@ Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lo
 
 **a) Scrum e Kanban:** 
 
-Descrição das atividades:
-
 -Isaira:Pesquisa de pontos negativos  e positivos  do app
 
--Kadny: organizei as atividades do projeto no Trello, conduzi as Daily Sprints, dei suporte à equipe, monitorei as datas de entrega das peças e ajudei no desenvolvimento das etapas, quando tínhamos dificuldade para realizar alguma tarefa. 
+-Kadny: Organizei as atividades do projeto no Trello, conduzi as Daily Sprints, dei suporte à equipe, monitorei as datas de entrega das peças e ajudei no desenvolvimento das etapas, quando tínhamos dificuldade para realizar alguma tarefa. 
 
 -Matheus: Revisei as funcionalidades do dashboard, colaborei com a confecção e revisão da base de dados e a confecção e revisão do texto introdutório
 
 **b) Questionário:**
 
-Descrever as atividades
-
 -Isaira: Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story 
 
--Jorge:
+-Jorge: Realizou ajustes no formulário do google (forms) e adicionou o link do questinário no Trello para apreciação do time.
 
 -Marize: Criou o grupo de whatsapp para a comunicação entre os membros do projeto. Produziu o Formulário Forms para a Pequisa de Satisfação dos clientes externos. Colocou o link da pesquisa de satisfação dos clientes no whatsapp e no Trello (Kanban) para ajustes realizados por Jorge e consequentemente para avaliação de todo o grupo, onde houve contrubuíção de todos os integrantes de maneira exemplar, trazendo o resultado final de excelência no Projeto desenvolvido. 
 
@@ -38,9 +34,9 @@ Descrever as atividades
 
 **c) Base de Dados (Excel):**
 
-Descrever as atividades
+Kadny: Auxilio na tabulação dos dados e categorização dos comentários dos usuários do app da Ipiranga (Abastece aí).
 
-Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na      internet, encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar a gama de informações da pesquisa.
+Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na internet, encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar a gama de informações da pesquisa.
 
 Matheus: Análise dos dados coletados, e categorização dos mesmos para facilitar a posterior montagem dos gráficos expostos no dashboard.
 
@@ -56,16 +52,13 @@ Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvime
 
 **e) Github:** 
 
-Descrever as atividades
-
--Kadny: desenvolvimeno do README.md e estruturação do projeto.
+-Kadny: Desenvolvimeno do README.md e estruturação do projeto.
 
 -Paulo: Criação e configuração do repositório.
 
-
 **f) Apresentação (Power Point):**
 
--Kadny: desenvolvimento do Power Point.
+-Kadny: Desenvolvimento do Power Point.
 
 -Paulo: Apoio na apresentação da parte de BI.
 
