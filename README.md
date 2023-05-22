@@ -1,6 +1,6 @@
 Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story # Inclusão Tech Grupo 2 (Turma 3) - Projeto Ipiranga (Gama Academy)
 
--Objetivo do projeto: analisar o perfil dos consumidores do Grupo Ipiranga e identificar pontos de melhoria.
+-Objetivo do projeto: analisar o perfil dos consumidores da Ipiranga e identificar pontos de melhoria.
 
 Construímos este material para o projeto Ipiranga Inclusão Tech, organizado pela Gama Academy e pelo Grupo Ipiranga, a fim de incluir pessoas com deficiência em cursos de Inteligência de Dados e BI. Nosso time foi formado por Isaira Rodrigues Soares, Jorge Luiz, Kadny Macêdo, Mario Lopes, Marize Medeiros, Matheus Rodrigues e Paulo Simão. Para a organização do projeto, escolhemos o Kanban para definir as atividades, por meio da metodologia Scrum, e o Trello como ferramenta de visualização. Ao realizar o projeto, definimos os papéis do Scrum de acordo com as afinidades, tanto de soft quanto de hard skills, de cada membro. Mas, apesar das funções terem sido definidas, todos nós contribuímos muito nas reuniões semanais (Daily Sprint), dando suporte um ao outro em cada atividade,  desde a organização até o momento da apresentação. Nós trabalhamos de forma coesa, colaborativa e apoiadora, como deve ser em um grupo de inclusão, e, também, no time da Ipiranga. Abaixo estão definidos as divisões dos papéis no Scrum, a metodologia e contribuição de cada um no projeto da Ipiranga Inclusão Tech e, por último, os links de alguns entregáveis. 
 
