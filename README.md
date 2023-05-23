@@ -1,4 +1,6 @@
-Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story # Inclusão Tech Grupo 2 (Turma 3) - Projeto Ipiranga (Gama Academy)
+# Inclusão Tech Grupo 2 (Turma 3) - Projeto Ipiranga (Gama Academy)
+
+Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story 
 
 -Objetivo do projeto: analisar o perfil dos consumidores da Ipiranga e identificar pontos de melhoria.
 
