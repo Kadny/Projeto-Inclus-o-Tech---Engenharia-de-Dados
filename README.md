@@ -12,59 +12,22 @@ Scrum Master: Paulo de Oliveira Simão Junior
 
 Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lopes Filho, Marize da Silva Medeiros, Matheus Pena Rodrigues.
 
-**2-Metodologia:**
+**2-Metodologia:** 
 
 **a) Scrum e Kanban:** 
 
--Isaira:Pesquisa de pontos negativos  e positivos  do app
-
--Kadny: Organizei as atividades do projeto no Trello, conduzi as Daily Sprints, dei suporte à equipe, monitorei as datas de entrega das peças e ajudei no desenvolvimento das etapas, quando tínhamos dificuldade para realizar alguma tarefa. 
-
--Matheus: Revisei as funcionalidades do dashboard, colaborei com a confecção e revisão da base de dados e a confecção e revisão do texto introdutório
-
 **b) Questionário:**
-
--Isaira: Na ajuda de criar perguntas para o questionário  por meio de porcentagem  e comentários  do app story 
-
--Jorge: Realizou ajustes no formulário do google (forms) e adicionou o link do questinário no Trello para apreciação do time.
-
--Marize: Criou o grupo de whatsapp para a comunicação entre os membros do projeto. Produziu o Formulário Forms para a Pequisa de Satisfação dos clientes externos. Colocou o link da pesquisa de satisfação dos clientes no whatsapp e no Trello (Kanban) para ajustes realizados por Jorge e consequentemente para avaliação de todo o grupo, onde houve contrubuíção de todos os integrantes de maneira exemplar, trazendo o resultado final de excelência no Projeto desenvolvido. 
-
--Paulo: Montagem das questões e introdução do formulário, apoiou nas revisões pertinentes.
-
-Link Canvas: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/editutm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **c) Base de Dados (Excel):**
 
-Kadny: Auxilio na tabulação dos dados e categorização dos comentários dos usuários do app da Ipiranga (Abastece aí).
-
-Mário: Em reunião com o grupo, foi constatado que não teríamos tempo hábil para efetuar a pesquisa em loco, então decidimos buscar uma base de dados pública com as informações necessárias. Após ampla pesquisa na internet, encontramos uma base pública com grande parte dos dados que precisaríamos, sendo a mesma alterada para atendar a gama de informações da pesquisa.
-
-Matheus: Análise dos dados coletados, e categorização dos mesmos para facilitar a posterior montagem dos gráficos expostos no dashboard.
-
-Paulo: Trativa dos dados, tabulação e criação das tabelas dinâmicas para criação de gráficos dinâmicos do dash do Excel.
-
 **d) Dashboard (Excel e Power BI):**
-
-Descrever as atividades:
-
-Mario: Tendo a primeira versão do banco de dados pronta, dei início a elaboração do primeiro Dashboard do projeto, para à partir deste modelo, gerarmos novas versões até atender a total necessidade do projeto e a expectativa de todos do grupo. 
-
-Paulo: Melhoria na parte gráfica dos gráificos do dash do Excel e desenvolvimento do painel de BI feito no Power BI, todos a parte gráfica foi realizada utilizando como base as cores predominantes da Ipiranga.
 
 **e) Github:** 
 
--Kadny: Desenvolvimeno do README.md e estruturação do projeto.
-
--Paulo: Criação e configuração do repositório.
-
 **f) Apresentação (Power Point):**
 
--Kadny: Desenvolvimento do Power Point.
-
--Paulo: Apoio na apresentação da parte de BI.
-
 **7- Links**
+- As contribuições de cada integrante do time estão descritas no Canva e podem ser visualizadas no seguinte link: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/edit?utm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 -Link da abertura do grupo whatsapp (canal de comunicação com rapidez)
 
