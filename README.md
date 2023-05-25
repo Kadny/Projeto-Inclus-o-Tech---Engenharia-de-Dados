@@ -14,27 +14,27 @@ Scrum Master: Paulo de Oliveira Simão Junior
 
 Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lopes Filho, Marize da Silva Medeiros, Matheus Pena Rodrigues.
 
+As contribuições detalhadas de cada integrante estão no Canvas: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/edit?utm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **2-Metodologia:** 
 
-**a) Scrum e Kanban:** 
+**a) Scrum e Kanban: Trello e Canvas - Links** 
 
-**b) Questionário:**
+Trello:  https://trello.com/b/BA36pW74/atividades
 
-**c) Base de Dados (Excel):**
+**b) Questionário: Google Forms - Link**
 
-**d) Dashboard (Excel e Power BI):**
+https://docs.google.com/forms/d/1wPNDqT8rzkQHfwBf0vamrcd3onUSBerAUz1GGAmwWRE/edit?ts=645f78de
 
-**e) Github:** 
+**c) Base de Dados: Excel - file**
 
-**f) Apresentação (Power Point):**
+**d) Dashboard: Power BI - file**
 
-**7- Links**
+ https://app.powerbi.com/view?r=eyJrIjoiNjlhNjg3NzItYjgxMy00YTI2LTgyZTYtYjg1MmEzZWZhZGI5IiwidCI6IjgwOWY5NGE2LTA0NzctNDM5MC1iODZlLWVhYjE0YzU0OTNhNyJ9
+ 
+**e) Github** 
 
--Link do Canvas com as contribuições detalhadas de cada integrante: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/edit?utm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+**f) Apresentação: Power Point - file**
 
--Link do Trello (Kanban e Scrum): https://trello.com/b/BA36pW74/atividades
-
--Link do Google Forms (Questionário): https://docs.google.com/forms/d/1wPNDqT8rzkQHfwBf0vamrcd3onUSBerAUz1GGAmwWRE/edit?ts=645f78de
-
--Link Power BI (Dasboard): https://app.powerbi.com/view?r=eyJrIjoiNjlhNjg3NzItYjgxMy00YTI2LTgyZTYtYjg1MmEzZWZhZGI5IiwidCI6IjgwOWY5NGE2LTA0NzctNDM5MC1iODZlLWVhYjE0YzU0OTNhNyJ9
+Obrigada pela oportunidade de desenvolver este projeto, tão desafiador e tão inclusivo, Ipiranga e Gama Academy. Nós, como time, aprendemos e amadurecemos muitos com este trabalho, e também nos tornamos mais sensíveis ao vermos a situação dos colegas.
 
