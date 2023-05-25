@@ -29,13 +29,12 @@ Developers: Isaira Rodrigues Soares, Jorge Luiz Machado Junior, Mario de Melo Lo
 **f) Apresentação (Power Point):**
 
 **7- Links**
-- As contribuições de cada integrante do time estão descritas no Canva e podem ser visualizadas no seguinte link: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/edit?utm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
--Link da abertura do grupo whatsapp (canal de comunicação com rapidez)
+-Link do Canvas com as contribuições detalhadas de cada integrante: https://www.canva.com/design/DAFjdPM92z0/Nf-pPJ0Jeyam7KNOlJVTIQ/edit?utm_content=DAFjdPM92z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 -Link do Trello (Kanban e Scrum): https://trello.com/b/BA36pW74/atividades
 
--Link do Google Forms (Questionário): https://docs.google.com/forms/d/e/1FAIpQLSf9AjMi1d7I6AXeaun9hT7agzwUrtF9lNinScv_ps2AzjeTmQ/viewform
+-Link do Google Forms (Questionário): https://docs.google.com/forms/d/1wPNDqT8rzkQHfwBf0vamrcd3onUSBerAUz1GGAmwWRE/edit?ts=645f78de
 
 -Link Power BI (Dasboard): https://app.powerbi.com/view?r=eyJrIjoiNjlhNjg3NzItYjgxMy00YTI2LTgyZTYtYjg1MmEzZWZhZGI5IiwidCI6IjgwOWY5NGE2LTA0NzctNDM5MC1iODZlLWVhYjE0YzU0OTNhNyJ9
 
